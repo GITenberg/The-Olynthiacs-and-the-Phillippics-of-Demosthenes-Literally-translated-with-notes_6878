@@ -1,0 +1,36 @@
+_repo: The-Olynthiacs-and-the-Phillippics-of-Demosthenes-Literally-translated-with-notes_6878
+contributor:
+  translator:
+    agent_name: Kennedy, Charles Rann
+    birthdate: 1808
+    deathdate: 1867
+    gutenberg_agent_id: '4166'
+    url: http://www.gutenberg.org/2009/agents/4166
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Rann_Kennedy
+creator:
+  author:
+    agent_name: Demosthenes
+    alias: Δημοσθένης
+    birthdate: -384
+    deathdate: -322
+    gutenberg_agent_id: '2233'
+    url: http://www.gutenberg.org/2009/agents/2233
+    wikipedia: http://en.wikipedia.org/wiki/Demosthenes
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Athens (Greece) -- Politics and government -- Early works to 1800'
+- !lcsh 'Demosthenes -- Translations into English'
+- !lcsh 'Speeches, addresses, etc., Greek -- Translations into English'
+- !lcc 'PA'
+title: "The Olynthiacs and the Phillippics of Demosthenes\r\nLiterally translated\
+  \ with notes"
+url: http://www.gutenberg.org/ebooks/6878
