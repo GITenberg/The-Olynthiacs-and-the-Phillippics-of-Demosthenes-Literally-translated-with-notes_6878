@@ -1,4 +1,5 @@
 _repo: The-Olynthiacs-and-the-Phillippics-of-Demosthenes-Literally-translated-with-notes_6878
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Kennedy, Charles Rann
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4166'
     url: http://www.gutenberg.org/2009/agents/4166
     wikipedia: http://en.wikipedia.org/wiki/Charles_Rann_Kennedy
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Demosthenes
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2233
     wikipedia: http://en.wikipedia.org/wiki/Demosthenes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6878#The-Olynthiacs-and-the-Phillippics-of-Demosthenes-Literally-translated-with-notes
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
